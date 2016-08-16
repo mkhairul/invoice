@@ -1,0 +1,28 @@
+{
+  "private": true,
+  "devDependencies": {
+    "gulp": "^3.8.8",
+    "gulp-concat": "^2.6.0",
+    "gulp-cssmin": "^0.1.7",
+    "gulp-filter": "^3.0.1",
+    "gulp-main-bower-files": "^1.2.2",
+    "gulp-s3": "^0.3.0",
+    "gulp-sass": "^2.0.4",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-uglify": "^1.4.1",
+    "gulp-usemin": "^0.3.14",
+    "run-sequence": "^1.1.4"
+  },
+  "dependencies": {
+    "connect": "~3.4.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-util": "^3.0.7",
+    "gulp-watch": "^4.3.5",
+    "mkdirp": "^0.5.1",
+    "parse": "^1.6.9",
+    "request": "^2.65.0",
+    "serve-static": "~1.10.2",
+    "sitemap": "^1.5.0",
+    "sync-exec": "^0.6.2"
+  }
+}
